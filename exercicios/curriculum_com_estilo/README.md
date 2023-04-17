@@ -1,7 +1,5 @@
 # Curriculum com Estilo
 
-    ## Objetivo
-
 O objetivo desta atividade consiste em abordar os seguintes temas:
 
 - Reuso de CSS com _External Stylesheet_

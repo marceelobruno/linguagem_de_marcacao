@@ -5,6 +5,7 @@
   width: 90%;
   border-radius: 2px;
   overflow: visible;
+  border-bottom: 1px solid white;
 }
 
 .skill .progress .determinate {
@@ -21,4 +22,9 @@
   right: -2px;
   margin-left: 50%;
   color: #fff
+}
+
+.skill {
+  margin: 12px 0 0 4px;
+
 }
